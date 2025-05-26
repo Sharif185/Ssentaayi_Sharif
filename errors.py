@@ -10,3 +10,5 @@ while True:
     else:
         print(f" Result: {num1} / {num2} = {result}")
         break  # exit loop after a successful operation
+    finally:
+        print("Program execution complete")
