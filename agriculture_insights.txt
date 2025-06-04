@@ -1,0 +1,37 @@
+
+# Precision Agriculture Insights Report
+# Generated: 2025-06-04 00:10
+
+## Key Findings
+
+1. Fertilizer Drivers:
+   - Soil pH shows strongest influence (r=0.085)
+   - Humidity has minimal impact (r=0.017)
+   - Soil moisture correlation negligible (r=-0.0009)
+
+2. Crop Moisture Levels:
+   - Wheat: 47.36% (highest)
+   - Maize: 44.95%
+   - Beans: 44.34%
+   - Tomatoes: 44.02% 
+   - Lettuce: 42.93%
+
+3. High-Temp (>30°C) Irrigation:
+   - Tomatoes: 18.92mm → 48.65% moisture
+   - Wheat: 18.65mm → 44.09%
+   - Lettuce: 16.30mm → 42.66%
+
+## Actionable Recommendations
+
+• Soil Management:
+  - Prioritize pH testing before fertilization
+  - Conduct controlled pH adjustment trials
+
+• Irrigation Adjustments:
+  - Tomatoes: Maintain volume, shift to morning watering
+  - Wheat: Increase frequency during heat waves
+  - Lettuce: +10-15% water in high temps, consider shade nets
+
+• Monitoring:
+  - Install IoT soil sensors in wheat and tomato fields
+  - Implement moisture-based irrigation triggers
